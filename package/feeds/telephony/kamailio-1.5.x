@@ -1,1 +1,0 @@
-../../../feeds/telephony/net/kamailio-1.5.x
