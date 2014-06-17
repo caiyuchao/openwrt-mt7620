@@ -20,4 +20,5 @@
 *#
 .emacs.desktop*
 TAGS*~
+/feeds/*.tmp
 git-src
